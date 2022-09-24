@@ -1,0 +1,14 @@
+{
+  "name": "twitter-oauth",
+  "version": "1.0.0",
+  "description": "twiter oAuth tester",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
